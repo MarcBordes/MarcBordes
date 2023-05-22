@@ -4,6 +4,11 @@
  <p align="center">
   Estudiante de Ingeniaría Informática 
  </p>
+ 
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcBordes=compact"/>  
+</p>
+ 
  <p align="center">
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
