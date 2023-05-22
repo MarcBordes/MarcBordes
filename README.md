@@ -1,10 +1,11 @@
-### Hi there 👋
 <p align="center">
-  Hola! 👋 Soy Marc Bordes ⚡
-  
-  Estudiante de Ingeniaría Informática 
-
+  ### Hola! 👋 Soy Marc Bordes ⚡
 </p>
+ <p>
+  Estudiante de Ingeniaría Informática 
+ </p>
+
+
 
 <!--
 **MarcBordes/MarcBordes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
