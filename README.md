@@ -6,7 +6,7 @@
  </p>
  
  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcBordes=compact"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcBordes"/>  
 </p>
  
  <p align="center">
